@@ -1,0 +1,15 @@
+* {
+    padding : 0;
+    margin : 0;
+}
+
+body {
+    background : white;
+    color : black;
+}
+#header{
+	
+	height: 100px;
+	background: rgba(80,80,80,.6);
+	width:100%;
+	}

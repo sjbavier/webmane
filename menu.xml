@@ -1,0 +1,43 @@
+<?xml version="1.0"?>
+<menu title="Three Aces">
+    <category title="pizza">
+        <item type="Tomato and Cheese">
+            <price size="small">$5.50
+            </price>
+            <price size="large">$9.75
+            </price>
+        </item>
+        <item type="Hawaiian">
+            <price size="small">$7.95
+            </price>
+            <price size="large">$11.80
+            </price>
+        </item>
+        <item type="Mushrooms">
+            <price size="small">$6.85
+            </price>
+            <price size="large">$10.85
+            </price>
+        </item>        
+    </category>
+    <category title="salads">
+        <item type="garden">
+            <price size="small">$3.50
+            </price>
+            <price size="large">$4.50
+            </price>
+        </item>
+        <item type="greek">
+            <price size="small">$4.50
+            </price>
+            <price size="large">$5.50
+            </price>
+        </item>
+        <item type="antipasto">
+            <price size="small">$4.50
+            </price>
+            <price size="large">$5.50
+            </price>
+        </item>        
+    </category>
+</menu>
