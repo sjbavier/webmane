@@ -1,0 +1,765 @@
+[{
+  "title": "WebMANE",
+  "link": "http://webmane.net/index.html",
+  "category": ["webmane", "web"]
+}, {
+  "title": "HTC",
+  "link": "ftp://192.168.1.103:8888/",
+  "category": ["htc"]
+}, {
+  "title": "Awwwards: Website Awards - Best websites around the World",
+  "link": "http://www.awwwards.com/",
+  "category": ["awwwards", "awards", "websites", "world", "sites", "site", "website", "web"]
+}, {
+  "title": "What's Trending | Directors Live",
+  "link": "http://www.directorslive.com/home?",
+  "category": ["trending", "directors", "live", "ec"]
+}, {
+  "title": "Inspiration | Design Reviver",
+  "link": "http://designreviver.com/inspiration",
+  "category": ["reviver", "io", "inspiration", "design"]
+}, {
+  "title": "50 Freelance Job Sites For Designers & Programmers – Best Of",
+  "link": "http://www.hongkiat.com/blog/50-freelance-job-sites-for-designers-programmers-best-of/",
+  "category": ["freelance", "job", "sites", "programmers", "pro", "designers", "site", "designer", "free", "design"]
+}, {
+  "title": "Log In",
+  "link": "http://www.coroflot.com/login/login.asp?return=/individual/all_portfolio_files.asp",
+  "category": ["log"]
+}, {
+  "title": "Making Complex Selections in Photoshop - DesignFestival » For Web Design Trends | Inspiration | Design Theory | Colors | Web Fonts | UX | Photoshop | Tutorials and more - StumbleUpon",
+  "link": "http://www.stumbleupon.com/su/2ZZkcH/designfestival.com/making-complex-selections-in-photoshop/",
+  "category": ["complex", "selections", "designfestival", "trends", "theory", "fonts", "ux", "ec", "op", "io", "colors", "co", "photo", "font", "color", "inspiration", "stumbleupon", "tutorial", "com", "web", "photoshop", "tutorials", "design"]
+}, {
+  "title": "Best headhunters in NYC, by industry | Things to Do | reviews, guides, things to do, film - Time Out New York",
+  "link": "http://www.timeout.com/newyork/things-to-do/best-headhunters-in-nyc-by-industry",
+  "category": ["headhunters", "industry", "reviews", "guides", "film", "nyc", "time", "york", "guide"]
+}, {
+  "title": "kuler",
+  "link": "http://kuler.adobe.com/#themes/rating?time=30",
+  "category": ["kuler"]
+}, {
+  "title": "How To Build A Mobile Website - Smashing Mobile | Smashing Mobile",
+  "link": "http://mobile.smashingmagazine.com/2010/11/03/how-to-build-a-mobile-website/#mobile-stylesheets",
+  "category": ["build", "site", "website", "mobile", "smashing", "web"]
+}, {
+  "title": "How To Use CSS3 Media Queries To Create a Mobile Version of Your Website - Smashing Mobile | Smashing Mobile",
+  "link": "http://mobile.smashingmagazine.com/2010/07/19/how-to-use-css3-media-queries-to-create-a-mobile-version-of-your-website/",
+  "category": ["queries", "io", "media", "version", "cs", "site", "create", "website", "mobile", "smashing", "web", "css"]
+}, {
+  "title": "Mobile phone emulator (by COWEMO)",
+  "link": "http://mobilephoneemulator.com/",
+  "category": ["phone", "emulator", "cowemo", "co", "mobile"]
+}, {
+  "title": "How to redirect your website to its mobile version | InMotion Hosting",
+  "link": "http://www.inmotionhosting.com/support/website/how-to/mobile-redirect",
+  "category": ["redirect", "inmotion", "hosting", "ec", "red", "io", "version", "site", "website", "mobile", "web"]
+}, {
+  "title": "70 Ultimate Cinema 4D Tutorials & Techniques - Noupe",
+  "link": "http://www.noupe.com/tutorial/70-ultimate-cinema-4d-tutorials-techniques.html",
+  "category": ["ec", "tech", "noupe", "ultimate", "cinema", "4d", "tutorial", "techniques", "tutorials"]
+}, {
+  "title": "Coding Flexible Web Layouts in HTML5 and CSS - Speckyboy Design Magazine",
+  "link": "http://speckyboy.com/2010/12/03/coding-flexible-web-layouts-in-html5-and-css/",
+  "category": ["flexible", "layout", "ec", "speckyboy", "co", "cs", "layouts", "html", "coding", "magazine", "web", "design", "css"]
+}, {
+  "title": "Build a HTML5/CSS3 Website Layout Without Images – Part 1 | Onextrapixel - Web Design & Development Online Magazine",
+  "link": "http://www.onextrapixel.com/2010/06/02/build-a-html5-css3-website-layout-without-images%E2%80%93part-1/",
+  "category": ["layout", "images", "onextrapixel", "op", "dev", "art", "build", "development", "line", "cs", "site", "online", "image", "html", "website", "magazine", "web", "design", "css"]
+}, {
+  "title": "Adaptive CSS-Layouts: New Era In Fluid Layouts? | Smashing Coding",
+  "link": "http://coding.smashingmagazine.com/2009/06/09/smart-fixes-for-fluid-layouts/",
+  "category": ["layout", "adaptive", "era", "co", "cs", "layouts", "fluid", "coding", "smashing", "css"]
+}, {
+  "title": "A List Apart: Articles: Fluid Grids",
+  "link": "http://www.alistapart.com/articles/fluidgrids",
+  "category": ["list", "apart", "articles", "grids", "art", "fluid", "grid"]
+}, {
+  "title": "99 Brain Blasting Cinema 4D Tutorials!",
+  "link": "http://cg.tutsplus.com/articles/web-roundups/99-brain-blasting-cinema-4d-tutorials/",
+  "category": ["brain", "blasting", "cinema", "4d", "tutorial", "tutorials"]
+}, {
+  "title": "Fluid 960 Grid System | 16-column Grid",
+  "link": "http://www.designinfluences.com/fluid960gs/",
+  "category": ["column", "system", "co", "fluid", "grid"]
+}, {
+  "title": "modernizr.com",
+  "link": "http://modernizr.com/",
+  "category": ["modernizr", "co", "com"]
+}, {
+  "title": "CSS3 Buttons with Icons | Blog | FortySeven Media",
+  "link": "http://fortysevenmedia.com/blog/archives/css3_buttons_with_icons/",
+  "category": ["log", "buttons", "fortyseven", "button", "media", "co", "icons", "cs", "icon", "blog", "css"]
+}, {
+  "title": "CSS3 Please! The Cross-Browser CSS3 Rule Generator",
+  "link": "http://css3please.com/",
+  "category": ["era", "please", "browser", "rule", "cs", "cross", "generator", "css"]
+}, {
+  "title": "Open Source Vector Icons - gcons",
+  "link": "http://www.greepit.com/open-source-icons-gcons/",
+  "category": ["vector", "gcons", "ec", "op", "co", "icons", "source", "icon"]
+}, {
+  "title": "10 Excellent Tools for Responsive Web Design",
+  "link": "http://sixrevisions.com/tools/responsive-web-design/",
+  "category": ["excellent", "tools", "responsive", "web", "design"]
+}, {
+  "title": "Top 100 Useful And Detailed CSS3 Tutorials And Techniques",
+  "link": "http://www.designyourway.net/blog/resources/top-100-useful-and-detailed-css3-tutorials-and-techniques/",
+  "category": ["detailed", "ec", "tech", "op", "cs", "useful", "top", "tutorial", "techniques", "tutorials", "css"]
+}, {
+  "title": "HSL Color Picker; HTML Color Picker; Web, HEX, CSS, HSLa",
+  "link": "http://www.workwithcolor.com/hsl-color-picker-01.htm",
+  "category": ["hsl", "hex", "co", "picker", "hsla", "cs", "color", "html", "web", "css"]
+}, {
+  "title": "Free Computer Science Electronic Books",
+  "link": "http://motyar.blogspot.com/2010/09/free-computer-science-electronic-books.html",
+  "category": ["computer", "science", "electronic", "ec", "co", "book", "books", "com", "free"]
+}, {
+  "title": "Contents -- Eloquent JavaScript - StumbleUpon",
+  "link": "http://www.stumbleupon.com/su/6VkK1e/eloquentjavascript.net/contents.html/",
+  "category": ["contents", "eloquent", "co", "content", "stumbleupon", "javascript"]
+}, {
+  "title": "100 Best JavaScript Resources — Spoonfed Design - StumbleUpon",
+  "link": "http://www.stumbleupon.com/su/6QiEOe/www.spoonfeddesign.com/100-best-javascript-resources/",
+  "category": ["spoonfed", "resource", "source", "stumbleupon", "resources", "javascript", "design"]
+}, {
+  "title": "Compress javascript and css. Amazing code compression. Quick,easy and free! - StumbleUpon",
+  "link": "http://www.stumbleupon.com/su/9Vfy4F/compressor.ebiene.de/",
+  "category": ["compress", "compression", "io", "co", "amazing", "cs", "quick", "easy", "stumbleupon", "code", "com", "free", "javascript", "css"]
+}, {
+  "title": "57+ Premium And Free Image Gallery, Slideshow And Lightbox Solutions",
+  "link": "http://www.1stwebdesigner.com/css/57-free-image-gallery-slideshow-and-lightbox-solutions/",
+  "category": ["slideshow", "lightbox", "slide", "light", "io", "premium", "solutions", "gallery", "image", "free"]
+}, {
+  "title": "How Much Should A Web Site Cost?",
+  "link": "http://www.webpagefx.com/How-much-should-web-site-cost.html",
+  "category": ["cost", "co", "site", "web"]
+}, {
+  "title": "CSS3 Menu. Free CSS Menu Maker",
+  "link": "http://css3menu.com/?gclid=COrWsY6ruLECFYfe4Aod6gEADQ",
+  "category": ["cs", "maker", "menu", "free", "css"]
+}, {
+  "title": "Ultimate CSS Gradient Generator - ColorZilla.com",
+  "link": "http://www.colorzilla.com/gradient-editor/",
+  "category": ["era", "gradient", "colorzilla", "adi", "co", "cs", "ultimate", "color", "generator", "com", "css"]
+}, {
+  "title": "5 Cool CSS Hover Effects You Can Copy and Paste | Design Shack",
+  "link": "http://designshack.net/?p=19746",
+  "category": ["ec", "hover", "copy", "paste", "shack", "effect", "op", "co", "cs", "cool", "effects", "design", "css"]
+}, {
+  "title": "- Sliding Image Gallery - CSS3 Transition Tutorial » Webstandard-Blog & Webdesign «",
+  "link": "http://webstandard.kulando.de/post/2010/05/21/sliding-image-gallery-css3-transition-tutorial",
+  "category": ["log", "transition", "webstandard", "webdesign", "io", "cs", "sliding", "gallery", "image", "tutorial", "blog", "web", "design", "css"]
+}, {
+  "title": "Slide In Image Boxes | CSS-Tricks",
+  "link": "http://css-tricks.com/snippets/css/slide-in-image-boxes/",
+  "category": ["slide", "boxes", "cs", "tricks", "image", "css"]
+}, {
+  "title": "HSLa Grid",
+  "link": "http://css-tricks.com/examples/HSLaExplorer/",
+  "category": ["hsl", "hsla", "grid"]
+}, {
+  "title": "Button Maker",
+  "link": "http://css-tricks.com/examples/ButtonMaker/",
+  "category": ["button", "maker"]
+}, {
+  "title": "Powerful New CSS- and JavaScript-Techniques (2012 Edition) | Smashing Coding",
+  "link": "http://coding.smashingmagazine.com/2012/06/21/powerful-new-cssjavascript-techniques/",
+  "category": ["ec", "powerful", "tech", "edit", "io", "co", "cs", "edition", "coding", "techniques", "smashing", "javascript", "css"]
+}, {
+  "title": "Create Your Own @font-face Kits | Font Squirrel",
+  "link": "http://www.fontsquirrel.com/fontface/generator",
+  "category": ["own", "kits", "squirrel", "font", "create"]
+}, {
+  "title": "15 Super Cool CSS3 Navigation Menus And Tutorials",
+  "link": "http://www.bloggermint.com/2011/01/15-super-cool-css3-navigation-menus-and-tutorials/",
+  "category": ["super", "menus", "io", "co", "cs", "cool", "navigation", "menu", "tutorial", "tutorials", "css"]
+}, {
+  "title": "40 Awesome Photoshop Water Effect Tutorials and Brush Collections",
+  "link": "http://www.tripwiremagazine.com/2012/03/photoshop-water-effect-tutorials-and-brushes.html",
+  "category": ["ec", "effect", "collections", "collection", "op", "io", "co", "photo", "water", "awesome", "brush", "tutorial", "photoshop", "tutorials"]
+}, {
+  "title": "CSSBakery: Fixing Firefox font-face Cross Domain Problem",
+  "link": "http://www.cssbakery.com/2010/07/fixing-firefox-font-face-cross-domain_25.html",
+  "category": ["cssbakery", "fixing", "firefox", "domain", "fox", "pro", "fix", "cs", "font", "cross", "css"]
+}, {
+  "title": "5 htaccess Tricks Every Webmaster Should Know",
+  "link": "http://frontdeskapp.com/blog/5-htaccess-tricks-every-webmaster-should-know/",
+  "category": ["master", "htaccess", "webmaster", "tricks", "web"]
+}, {
+  "title": "Correction | Planet Photoshop | Page 2",
+  "link": "http://planetphotoshop.com/category/tutorials/correction/page/2",
+  "category": ["ec", "correction", "planet", "page", "op", "io", "co", "net", "photo", "photoshop"]
+}, {
+  "title": "40 Photoshop Tutorials for Lighting and Abstract Effects | Vandelay Design Blog",
+  "link": "http://vandelaydesign.com/blog/design/photoshop-lighting-effects/",
+  "category": ["log", "ec", "effect", "abstract", "light", "op", "photo", "lighting", "vandelay", "effects", "tutorial", "blog", "photoshop", "tutorials", "design"]
+}, {
+  "title": "99 Resources for Web 2.0 Design | Vandelay Design Blog",
+  "link": "http://vandelaydesign.com/blog/design/web-20-design/",
+  "category": ["log", "resource", "source", "vandelay", "resources", "blog", "web", "design"]
+}, {
+  "title": "60 Brilliant Typefaces For Corporate Design | Smashing Magazine",
+  "link": "http://www.smashingmagazine.com/2008/03/20/60-brilliant-typefaces-for-corporate-design/",
+  "category": ["brilliant", "corporate", "co", "typefaces", "magazine", "smashing", "design"]
+}, {
+  "title": "80 Beautiful Typefaces For Professional Design | Smashing Magazine",
+  "link": "http://www.smashingmagazine.com/2007/08/08/80-beautiful-fonts-typefaces-for-professional-design/",
+  "category": ["pro", "io", "professional", "beautiful", "typefaces", "magazine", "smashing", "design"]
+}, {
+  "title": "40+ Excellent Freefonts For Professional Design | Smashing Magazine",
+  "link": "http://www.smashingmagazine.com/2007/11/08/40-excellent-freefonts-for-professional-design/",
+  "category": ["fonts", "freefonts", "pro", "io", "excellent", "professional", "font", "magazine", "smashing", "free", "design"]
+}, {
+  "title": "Flaming Pear:Download",
+  "link": "http://www.flamingpear.com/download.html",
+  "category": ["own", "flaming", "pear", "download"]
+}, {
+  "title": "Photoshop tip: Turn daytime into night-time | Tip | Web Designer",
+  "link": "http://www.webdesignermag.co.uk/tip/photoshop-tip-turn-daytime-into-night-time/",
+  "category": ["daytime", "night", "op", "time", "photo", "tip", "designer", "web", "photoshop", "design"]
+}, {
+  "title": "Add a small icon to your links, css only - CSS - Tutorials - Vision.To Design",
+  "link": "http://www.vision.to/add-a-small-icon-to-your-links-css-only.php",
+  "category": ["add", "links", "vision", "io", "co", "cs", "icon", "tutorial", "tutorials", "design", "css"]
+}, {
+  "title": "70 Best Photoshop Photo Manipulation Tutorials | Tutorials | instantShift - Web Design Magazine",
+  "link": "http://www.instantshift.com/2012/02/17/70-best-photo-manipulation-tutorials-of-all-time/",
+  "category": ["manipulation", "instantshift", "op", "io", "photo", "tutorial", "magazine", "web", "photoshop", "tutorials", "design"]
+}, {
+  "title": "Photoshop Tutorials from PhotoshopCAFE -free Photoshop training",
+  "link": "http://www.photoshopcafe.com/tutorials.htm",
+  "category": ["photoshopcafe", "training", "op", "pc", "photo", "tutorial", "free", "photoshop", "tutorials"]
+}, {
+  "title": "60 Advanced Adobe Photoshop Tutorials | Dennis Plucinik's Web Design Blog",
+  "link": "http://www.dennisplucinik.com/blog/2007/08/28/60-advanced-adobe-photoshop-tutorials/",
+  "category": ["log", "dennis", "plucinik", "op", "photo", "adobe", "advanced", "tutorial", "blog", "web", "photoshop", "tutorials", "design"]
+}, {
+  "title": "Smooth Metal | Photoshop Tutorials | Absolute Cross",
+  "link": "http://www.absolutecross.com/tutorials/photoshop/smooth-metal",
+  "category": ["smooth", "metal", "absolute", "op", "photo", "cross", "tutorial", "photoshop", "tutorials"]
+}, {
+  "title": "Adobe Photoshop Tutorials from Beginner to Advanced | Psdtuts+",
+  "link": "http://psd.tutsplus.com/",
+  "category": ["op", "ps", "tuts", "photo", "adobe", "beginner", "psdtuts", "advanced", "tutorial", "photoshop", "tutorials"]
+}, {
+  "title": "60 Most Wanted Photoshop Tutorials, Brushes, .PSDs and Resources - noupe",
+  "link": "http://www.noupe.com/photoshop/60-most-wanted-photoshop-tutorials-brushes-psds-and-resources.html",
+  "category": ["psds", "op", "ps", "resource", "noupe", "source", "photo", "brush", "brushes", "tutorial", "resources", "photoshop", "tutorials"]
+}, {
+  "title": "Create an Incredible Avatar Inspired Matte Painting of Pandora | CG.CreativeFan",
+  "link": "http://cg.creativefan.com/create-an-incredible-avatar-inspired-matte-painting-of-pandora/",
+  "category": ["incredible", "avatar", "inspired", "pandora", "red", "paint", "creativefan", "cg", "matte", "creative", "create", "painting"]
+}, {
+  "title": "Using Lighting, Atmospherics and Digital Illustration Techniques for Matte Painting - The Making of Golden Sunrise in a Fairy Land by Stas Lobachev | CG.CreativeFan",
+  "link": "http://cg.creativefan.com/using-lighting-atmospherics-and-digital-illustration-techniques-for-matte-painting-the-making-of-golden-sunrise-in-a-fairy-land-by-stas-lobachev/",
+  "category": ["ec", "tech", "atmospherics", "illustration", "golden", "sunrise", "fairy", "land", "stas", "lobachev", "light", "paint", "io", "git", "cs", "creativefan", "cg", "matte", "lighting", "digital", "creative", "using", "painting", "techniques"]
+}, {
+  "title": "50 Beautiful Light Effects Photoshop Brush Packs (740 Brushes) - Speckyboy Design Magazine",
+  "link": "http://speckyboy.com/2010/10/25/50-beautiful-light-effects-photoshop-brush-packs-740-brushes/",
+  "category": ["ec", "effect", "light", "packs", "op", "speckyboy", "photo", "beautiful", "brush", "effects", "brushes", "magazine", "photoshop", "design"]
+}, {
+  "title": "Use the Mixer Brush in Photoshop CS5 to Turn a Photo Into a Realistic Painting | Psdtuts+",
+  "link": "http://psd.tutsplus.com/tutorials/painting/use-the-mixer-brush-in-photoshop-cs5-to-turn-a-photo-into-a-realistic-painting/",
+  "category": ["list", "mixer", "realistic", "paint", "op", "ps", "tuts", "cs", "photo", "brush", "psdtuts", "painting", "photoshop"]
+}, {
+  "title": "Welcome to Dylan Cole Studio",
+  "link": "http://www.dylancolestudio.com/",
+  "category": ["studio", "io", "co", "cole", "dylan", "welcome", "com"]
+}, {
+  "title": "The Gnomon Workshop - The Techniques of Dylan Cole 1",
+  "link": "http://www.thegnomonworkshop.com/store/product/55/The-Techniques-of-Dylan-Cole-1#.UKB3Tocr2So",
+  "category": ["ec", "tech", "gnomon", "workshop", "op", "co", "cole", "dylan", "techniques"]
+}, {
+  "title": "Create a Red Giant Star in Photoshop | Psdtuts+",
+  "link": "http://psd.tutsplus.com/tutorials/painting/red-giant-star-photoshop/",
+  "category": ["red", "giant", "star", "op", "ps", "tuts", "photo", "psdtuts", "create", "photoshop"]
+}, {
+  "title": "25 Really Useful Photoshop Drawing Tutorials",
+  "link": "http://smashinghub.com/25-really-useful-photoshop-drawing-tutorials.htm",
+  "category": ["drawing", "draw", "op", "photo", "useful", "tutorial", "photoshop", "tutorials"]
+}, {
+  "title": "Painting via Adjustment Layers by `fox-orian on deviantART",
+  "link": "http://fox-orian.deviantart.com/art/Painting-via-Adjustment-Layers-114727026",
+  "category": ["via", "adjustment", "layers", "fox", "orian", "paint", "dev", "art", "deviantart", "painting"]
+}, {
+  "title": "Digital-Tutors > Vue Tutorials > Beginner's Guide to Vue Tutorial",
+  "link": "http://www.digitaltutors.com/11/training.php?pid=695",
+  "category": ["tutors", "git", "beginner", "vue", "digital", "guide", "tutorial", "tutorials"]
+}, {
+  "title": "Shoe/Boot Stretchers",
+  "link": "http://www.shoecaresupplies.com/SearchResults.asp?Cat=42",
+  "category": ["shoe", "stretchers", "boot"]
+}, {
+  "title": "Editing Bodies of Water for Vue 10 Reference Manual",
+  "link": "http://www.scribd.com/doc/88989444/155/Editing-Bodies-of-Water",
+  "category": ["editing", "bodies", "reference", "manual", "edit", "water", "vue"]
+}, {
+  "title": "Dark Side of the Earth - Radiolab",
+  "link": "http://www.radiolab.org/blogs/radiolab-blog/2012/oct/08/dark-side-earth/",
+  "category": ["radio", "dark", "earth", "radiolab", "adi", "io", "art"]
+}, {
+  "title": "50 Best and Worth Watch Cinema 4D Tutorials | Web Design Blog, Web Designer Resources",
+  "link": "http://www.2expertsdesign.com/graphics/50-best-and-worth-watch-cinema-4d-tutorials",
+  "category": ["log", "worth", "watch", "resource", "source", "designer", "cinema", "4d", "tutorial", "resources", "blog", "web", "tutorials", "design"]
+}, {
+  "title": "37 Fresh jQuery Image, Content Sliders And Slideshows | Free and Useful Online Resources for Designers and Developers",
+  "link": "http://www.smashingapps.com/2012/05/22/37-fresh-jquery-image-content-sliders-and-slideshows.html",
+  "category": ["slideshow", "slide", "sliders", "slideshows", "developers", "op", "resource", "dev", "designers", "line", "co", "source", "content", "fresh", "designer", "useful", "online", "image", "resources", "developer", "jquery", "free", "design"]
+}, {
+  "title": "Responsive Image Gallery",
+  "link": "http://tympanus.net/Tutorials/ResponsiveImageGallery/",
+  "category": ["responsive", "gallery", "image"]
+}, {
+  "title": "40+ Impressive Website Footers for Your Inspiration",
+  "link": "http://www.1stwebdesigner.com/inspiration/footer-designs-showcase/",
+  "category": ["impressive", "footers", "io", "site", "inspiration", "website", "web"]
+}, {
+  "title": "12 jQuery Fullscreen Plugins | jQuery4u",
+  "link": "http://www.jquery4u.com/plugins/jquery-fullscreen-plugins/",
+  "category": ["jquery4u", "plugin", "plugins", "fullscreen", "jquery"]
+}, {
+  "title": "jQuery Fullscreen Plugin - K's cluttered loft",
+  "link": "http://www.ailis.de/~k/archives/66-jQuery-Fullscreen-Plugin.html",
+  "category": ["red", "cluttered", "loft", "plugin", "fullscreen", "jquery"]
+}, {
+  "title": "Block or remove pages using a robots.txt file - Webmaster Tools Help",
+  "link": "http://support.google.com/webmasters/bin/answer.py?hl=en&answer=156449",
+  "category": ["master", "page", "block", "remove", "pages", "robots", "txt", "move", "help", "file", "tools", "webmaster", "using", "web"]
+}, {
+  "title": "Business Cards - Design & Print Business Cards Online at UPrinting.com!",
+  "link": "http://www.uprinting.com/business-cards.html?AID=10852436&PID=6449265&utm_content=10852436&utm_medium=affiliate&utm_campaign=6449265&utm_source=cj",
+  "category": ["print", "uprinting", "line", "co", "cards", "business", "online", "com", "design"]
+}, {
+  "title": "Downloads | CSS-Tricks",
+  "link": "http://css-tricks.com/downloads/",
+  "category": ["own", "downloads", "cs", "download", "tricks", "css"]
+}, {
+  "title": "WordPress Themes | Vandelay Design Blog",
+  "link": "http://vandelaydesign.com/blog/category/wp-themes/",
+  "category": ["log", "themes", "vandelay", "wordpress", "blog", "design"]
+}, {
+  "title": "7 Habits of Highly Creative Minds",
+  "link": "http://freelanceswitch.com/inspiration/7-habits-of-creative-minds/",
+  "category": ["habits", "highly", "minds", "mind", "creative"]
+}, {
+  "title": "CGArena : Making of Yuka",
+  "link": "http://www.cgarena.com/freestuff/tutorials/photoshop/lukx/index.html",
+  "category": ["cgarena", "yuka", "cg"]
+}, {
+  "title": "Welcome to MattePainting.Org",
+  "link": "http://mattepainting.org/",
+  "category": ["paint", "mattepainting", "org", "co", "welcome", "matte", "painting", "com"]
+}, {
+  "title": "How to make an animated thumbnail | Webdesigner Depot",
+  "link": "http://www.webdesignerdepot.com/2012/12/how-to-make-an-animated-thumbnail/",
+  "category": ["webdesign", "animated", "thumbnail", "webdesigner", "depot", "designer", "web", "design"]
+}, {
+  "title": "How To Create a Pure CSS Dropdown Menu",
+  "link": "http://line25.com/tutorials/how-to-create-a-pure-css-dropdown-menu",
+  "category": ["own", "pure", "dropdown", "op", "drop", "cs", "menu", "create", "css"]
+}, {
+  "title": "40 Premium CSS Menu and Navigation Solutions",
+  "link": "http://www.tripwiremagazine.com/2012/06/css-menu-and-navigation.html",
+  "category": ["io", "cs", "premium", "solutions", "navigation", "menu", "css"]
+}, {
+  "title": "100 Awesome CSS/Javascript Plugins and Coding Techniques | Top Design Magazine - Web Design and Digital Content",
+  "link": "http://www.topdesignmag.com/100-awesome-cssjavascript-plugins-and-coding-techniques/",
+  "category": ["ec", "tech", "op", "git", "co", "plugin", "plugins", "content", "cs", "awesome", "digital", "top", "coding", "techniques", "magazine", "web", "javascript", "design", "css"]
+}, {
+  "title": "Css Text Shadow",
+  "link": "http://www.themeshock.com/css-text-shadow/",
+  "category": ["shadow", "cs", "text", "css"]
+}, {
+  "title": "jQuery Masonry",
+  "link": "http://masonry.desandro.com/",
+  "category": ["masonry", "jquery"]
+}, {
+  "title": "10 of the Best CSS3 Code Generators - SitePoint",
+  "link": "http://www.sitepoint.com/10-best-css3-code-generators/",
+  "category": ["era", "generators", "sitepoint", "co", "cs", "site", "generator", "code", "css"]
+}, {
+  "title": "3D CSS Text Generator",
+  "link": "http://www.3dcsstext.com/",
+  "category": ["era", "3d", "cs", "text", "generator", "css"]
+}, {
+  "title": "kayahr/jquery-fullscreen-plugin · GitHub",
+  "link": "https://github.com/kayahr/jquery-fullscreen-plugin",
+  "category": ["kayahr", "git", "plugin", "fullscreen", "github", "jquery"]
+}, {
+  "title": "Top 10 Ancient Aliens Mysteries - Listverse",
+  "link": "http://listverse.com/2011/02/21/top-10-mysteries-surrounding-ancient-aliens/",
+  "category": ["list", "ancient", "aliens", "mysteries", "listverse", "op", "top"]
+}, {
+  "title": "Sacred-Texts: Hinduism",
+  "link": "http://www.sacred-texts.com/hin/maha/",
+  "category": ["red", "sacred", "texts", "hinduism", "text"]
+}, {
+  "title": "The Mahabharata, Book 1: Adi Parva: Section I",
+  "link": "http://www.sacred-texts.com/hin/m01/m01002.htm",
+  "category": ["ec", "mahabharata", "adi", "parva", "section", "io", "book"]
+}, {
+  "title": "Co-Optimus - Listing of Co-Op games on the PC",
+  "link": "http://www.co-optimus.com/system/4/pc.html",
+  "category": ["list", "optimus", "op", "games", "pc", "listing", "co"]
+}, {
+  "title": "Edit this Fiddle - jsFiddle",
+  "link": "http://jsfiddle.net/yhDVx/4/",
+  "category": ["edit", "fiddle", "jsfiddle", "js"]
+}, {
+  "title": "Best Budget Gaming Laptops Under 500 On Line | Gaming Laptops Under 500",
+  "link": "http://www.gaminglaptopsunder500.net/best-budget-gaming-laptops-under-500-on-line",
+  "category": ["op", "budget", "ps", "line", "laptops", "gaming", "top"]
+}, {
+  "title": ".bashrc generator: create your .bashrc PS1 with a drag and drop interface",
+  "link": "http://bashrcgenerator.com/",
+  "category": ["era", "op", "ps", "drag", "drop", "bash", "interface", "bashrc", "generator", "create"]
+}, {
+  "title": "explainshell.com - match command-line arguments to their help text",
+  "link": "https://explainshell.com/",
+  "category": ["explainshell", "match", "command", "arguments", "shell", "line", "co", "help", "text", "com"]
+}, {
+  "title": "Code for your .bashrc file. Show current git branch on bash shell prompt....with color! (This was copied and modified from similar code you can find out there on the 'tubes.) · GitHub",
+  "link": "https://gist.github.com/stuarteberg/4446426",
+  "category": ["pro", "op", "current", "branch", "bash", "shell", "prompt", "copied", "modified", "similar", "tubes", "git", "co", "file", "bashrc", "color", "github", "code"]
+}, {
+  "title": "[ubuntu] How to fix broken packages?",
+  "link": "https://ubuntuforums.org/showthread.php?t=965882",
+  "category": ["ubuntu]", "fix", "broken", "packages", "ubuntu"]
+}, {
+  "title": "How To Install rkhunter On Ubuntu - Vultr.com",
+  "link": "https://www.vultr.com/docs/how-to-install-rkhunter-on-ubuntu",
+  "category": ["vultr", "rkhunter", "co", "install", "com", "ubuntu"]
+}, {
+  "title": "How To Use RKHunter to Guard Against Rootkits on an Ubuntu VPS | DigitalOcean",
+  "link": "https://www.digitalocean.com/community/tutorials/how-to-use-rkhunter-to-guard-against-rootkits-on-an-ubuntu-vps",
+  "category": ["kits", "ps", "guard", "rootkits", "vps", "rkhunter", "git", "digitalocean", "digital", "ubuntu"]
+}, {
+  "title": "How to install gnome desktop in ubuntu 17.04? - Ask Ubuntu",
+  "link": "https://askubuntu.com/questions/905679/how-to-install-gnome-desktop-in-ubuntu-17-04",
+  "category": ["op", "gnome", "desktop", "top", "install", "ubuntu"]
+}, {
+  "title": "How To Switch Between GDM, LightDM, MDM Or KDM In Ubuntu [Quick Tip] ~ Web Upd8: Ubuntu / Linux blog",
+  "link": "http://www.webupd8.org/2011/07/how-to-switch-between-gdm-lightdm-or.html",
+  "category": ["log", "ux", "light", "switch", "gdm", "lightdm", "mdm", "kdm", "tip]", "upd", "quick", "tip", "linux", "blog", "ubuntu", "web"]
+}, {
+  "title": "Ionic Native - Ionic Native",
+  "link": "https://ionicframework.com/docs/native/",
+  "category": ["io", "native", "ionic"]
+}, {
+  "title": "A Beginner's Guide to Exploring the Darknet",
+  "link": "http://hubpages.com/technology/A-Beginners-Guide-to-Exploring-the-Darknet",
+  "category": ["dark", "exploring", "darknet", "net", "beginner", "guide"]
+}, {
+  "title": "PHP vs. Node.js: An epic battle for developer mind share | InfoWorld",
+  "link": "http://www.infoworld.com/article/2866712/php/php-vs-node-js-an-epic-battle-for-developer-mind-share.html",
+  "category": ["world", "op", "php", "epic", "battle", "mind", "share", "infoworld", "dev", "vs", "developer", "js", "node"]
+}, {
+  "title": "Asymmetric resource consumption (amplification) - OWASP",
+  "link": "https://www.owasp.org/index.php/Asymmetric_resource_consumption_(amplification)",
+  "category": ["io", "asymmetric", "resource", "consumption", "amplification", "owasp", "co", "source"]
+}, {
+  "title": "Detecting a swipe (left, right, top or down) using touch",
+  "link": "http://www.javascriptkit.com/javatutors/touchevents2.shtml",
+  "category": ["ec", "own", "op", "detecting", "swipe", "left", "touch", "top", "using"]
+}, {
+  "title": "CardView",
+  "link": "http://cubiq.org/cardview",
+  "category": ["cardview"]
+}, {
+  "title": "Function Declarations vs. Function Expressions | JavaScript, JavaScript...",
+  "link": "https://javascriptweblog.wordpress.com/2010/07/06/function-declarations-vs-function-expressions/",
+  "category": ["ec", "io", "declarations", "expressions", "function", "vs", "javascript"]
+}, {
+  "title": "Ben Alman » Partial Application in JavaScript",
+  "link": "http://benalman.com/news/2012/09/partial-application-in-javascript/",
+  "category": ["io", "ben", "alman", "partial", "application", "art", "javascript"]
+}, {
+  "title": "Coursera - Free Online Courses From Top Universities",
+  "link": "https://www.coursera.org/courses",
+  "category": ["era", "op", "coursera", "universities", "courses", "line", "co", "online", "top", "free"]
+}, {
+  "title": "OWASP",
+  "link": "https://www.owasp.org/index.php/Main_Page",
+  "category": ["owasp"]
+}, {
+  "title": "How to Safely Move Your WordPress Site (Without Losing Anything!) - WPMU DEV",
+  "link": "http://premium.wpmudev.org/blog/how-to-safely-move-wordpress/",
+  "category": ["safely", "move", "losing", "wp", "dev", "wpmu", "site", "wordpress"]
+}, {
+  "title": "The Ultimate Guide to WordPress Multisite - WPMU DEV",
+  "link": "http://premium.wpmudev.org/blog/ultimate-guide-multisite/?nlv=b&utm_expid=3606929-32.jVSGECWYSiWZJXI3ODEEGA.1&utm_referrer=https%3A%2F%2Fwww.google.com%2F",
+  "category": ["multisite", "wp", "dev", "wpmu", "site", "ultimate", "guide", "wordpress"]
+}, {
+  "title": "WordPress › Support » 500 Internal Server Error on wp-admin",
+  "link": "https://wordpress.org/support/topic/500-internal-server-error-on-wp-admin",
+  "category": ["admin", "internal", "wp", "error", "server", "support", "wordpress"]
+}, {
+  "title": "Jason Bobich | Moving WordPress to a new server",
+  "link": "http://www.jasonbobich.com/web-design/moving-wordpress-to-a-new-server/#comment-2117",
+  "category": ["moving", "bobich", "jason", "server", "wordpress"]
+}, {
+  "title": "40 Tutorials that will make you a Logo designer - AntsMagazine.Com",
+  "link": "http://www.antsmagazine.com/photoshop-2/tutorials/40tutorials-that-will-make-you-a-logo-designer/",
+  "category": ["log", "antsmagazine", "logo", "co", "designer", "tutorial", "magazine", "com", "tutorials", "design"]
+}, {
+  "title": "135 Great Logo Tutorials and Inspiration",
+  "link": "http://www.tripwiremagazine.com/2012/03/logo-tutorials.html",
+  "category": ["log", "io", "logo", "inspiration", "tutorial", "tutorials"]
+}, {
+  "title": "31 Best WordPress Tutorials for Advanced Users",
+  "link": "https://www.competethemes.com/wordpress-tutorials/",
+  "category": ["users", "advanced", "tutorial", "wordpress", "tutorials"]
+}, {
+  "title": "IT eBooks - Free Download - Big Library",
+  "link": "http://it-ebooks.info/",
+  "category": ["own", "ebooks", "library", "book", "download", "books", "free"]
+}, {
+  "title": "Wild Beasts and Colors",
+  "link": "http://www.webexhibits.org/colorart/fauve.html",
+  "category": ["beasts", "wild", "colors", "co", "color"]
+}, {
+  "title": "Art History Renaissance to 20th Century - Udemy",
+  "link": "https://www.udemy.com/course/art-history-survey-1300-to-contemporary/?couponCode=blog15&utm_source=blog&utm_medium=udemyads&utm_content=post20474&utm_campaign=content-marketing-blog&xref=blog",
+  "category": ["udemy", "century", "20th", "renaissance", "history", "art"]
+}, {
+  "title": "25 Oil Painting Techniques You Should to Learn",
+  "link": "https://www.udemy.com/blog/oil-painting-techniques/",
+  "category": ["ec", "tech", "paint", "oil", "learn", "painting", "techniques"]
+}, {
+  "title": "Learning LESS: An Introduction | Developer Drive",
+  "link": "http://www.developerdrive.com/2012/04/learning-less-an-introduction/",
+  "category": ["op", "intro", "io", "dev", "introduction", "drive", "learn", "developer", "learning"]
+}, {
+  "title": "nodeschool.io",
+  "link": "http://nodeschool.io/",
+  "category": ["io", "nodeschool", "node"]
+}, {
+  "title": "Bootstrap 3 Less Workflow Tutorial | Experience Design at Hello Erik",
+  "link": "http://www.helloerik.com/bootstrap-3-less-workflow-tutorial",
+  "category": ["workflow", "boot", "bootstrap", "experience", "hello", "erik", "tutorial", "design"]
+}, {
+  "title": "Bootstrap 3 Grid Introduction | Experience Design at Hello Erik",
+  "link": "http://www.helloerik.com/bootstrap-3-grid-introduction",
+  "category": ["intro", "io", "introduction", "boot", "bootstrap", "experience", "hello", "erik", "grid", "design"]
+}, {
+  "title": "The Subtle Magic Behind Why the Bootstrap 3 Grid Works | Experience Design at Hello Erik",
+  "link": "http://www.helloerik.com/the-subtle-magic-behind-why-the-bootstrap-3-grid-works",
+  "category": ["magic", "subtle", "boot", "bootstrap", "experience", "hello", "erik", "grid", "design"]
+}, {
+  "title": "Painting Hair - Part 1: Intro by Sheridan-J on DeviantArt",
+  "link": "http://sheridan-j.deviantart.com/art/Painting-Hair-Part-1-Intro-214400227",
+  "category": ["via", "paint", "sheridan", "intro", "hair", "dev", "art", "deviantart", "painting"]
+}, {
+  "title": "30 Amazing Adobe Photoshop CS6 Tutorials to improve your skills",
+  "link": "http://smashinghub.com/amazing-adobe-photoshop-cs6-tutorials.htm",
+  "category": ["pro", "op", "improve", "skills", "amazing", "cs", "photo", "adobe", "tutorial", "photoshop", "tutorials"]
+}, {
+  "title": "The Best Way to Learn JavaScript - Tuts+ Code Tutorial",
+  "link": "http://code.tutsplus.com/tutorials/the-best-way-to-learn-javascript--net-21954",
+  "category": ["tuts", "co", "learn", "tutorial", "code", "javascript"]
+}, {
+  "title": "60 Useful Web Developer Cheat Sheet Collection",
+  "link": "http://www.tripwiremagazine.com/2011/11/cheat-sheet-collection.html",
+  "category": ["ec", "collection", "op", "io", "dev", "cheat", "sheet", "co", "useful", "developer", "web"]
+}, {
+  "title": "Web Design | Beaqn.in - Curated Resources Repositories",
+  "link": "http://beaqn.in/webdesign/",
+  "category": ["repositories", "curated", "beaqn", "resource", "source", "resources", "web", "design"]
+}, {
+  "title": "Portamento - easy sliding/floating panels in jQuery",
+  "link": "http://simianstudios.com/portamento/",
+  "category": ["panels", "portamento", "floating", "easy", "sliding", "jquery"]
+}, {
+  "title": "Creating a Floating HTML Menu Using jQuery and CSS - Tuts+ Code Tutorial",
+  "link": "http://code.tutsplus.com/tutorials/creating-a-floating-html-menu-using-jquery-and-css--net-40",
+  "category": ["creating", "tuts", "co", "floating", "cs", "menu", "html", "tutorial", "using", "code", "jquery", "css"]
+}, {
+  "title": "Understanding Myelodysplastic Syndromes (MDS) | MDS Foundation",
+  "link": "http://www.mds-foundation.org/what-is-mds/",
+  "category": ["foundation", "syndromes", "myelodysplastic", "understanding", "io", "mds"]
+}, {
+  "title": "100 CSS and JavaScript tutorials to boost your skills | Creative Bloq",
+  "link": "http://www.creativebloq.com/web-design-tips/css-and-javascript-1233101",
+  "category": ["boost", "skills", "cs", "bloq", "creative", "tutorial", "javascript", "tutorials", "css"]
+}, {
+  "title": "26 Advanced Digital Painting Tutorials To Greatly Elevate Your Art - Hongkiat",
+  "link": "http://www.hongkiat.com/blog/advanced-digital-painting-tutorials/",
+  "category": ["paint", "hongkiat", "elevate", "greatly", "art", "git", "digital", "advanced", "tutorial", "painting", "tutorials"]
+}, {
+  "title": "How to draw and paint - 95 pro tips and tutorials | Creative Bloq",
+  "link": "http://www.creativebloq.com/tutorial/painting-drawing-tips-81516120",
+  "category": ["pro", "paint", "draw", "ps", "tips", "tip", "bloq", "creative", "tutorial", "tutorials"]
+}, {
+  "title": "The 60 best free Photoshop brushes | Creative Bloq",
+  "link": "http://www.creativebloq.com/photoshop/free-photoshop-brushes-11121140",
+  "category": ["op", "photo", "brush", "brushes", "bloq", "creative", "free", "photoshop"]
+}, {
+  "title": "Coding by the Book: 7 Books Every Software Developer Should Read",
+  "link": "https://blog.newrelic.com/2015/03/19/best-books-software-developer/",
+  "category": ["software", "op", "dev", "co", "book", "read", "books", "coding", "developer"]
+}, {
+  "title": "Vim Commands Cheat Sheet",
+  "link": "https://www.fprintf.net/vimCheatSheet.html",
+  "category": ["commands", "vim", "command", "cheat", "sheet", "co", "com"]
+}, {
+  "title": "How To Increase Your Internet Connection Speed in Linux - Linux Mint Forums",
+  "link": "https://forums.linuxmint.com/viewtopic.php?t=47766",
+  "category": ["ux", "ec", "forums", "mint", "speed", "connection", "internet", "increase", "io", "co", "net", "linux"]
+}, {
+  "title": "git - the simple guide - no deep shit!",
+  "link": "http://rogerdudler.github.io/git-guide/",
+  "category": ["shit", "simple", "git", "guide", "deep"]
+}, {
+  "title": "Installation on Ubuntu",
+  "link": "https://docs.docker.com/engine/installation/linux/ubuntulinux/",
+  "category": ["installation", "io", "install", "ubuntu"]
+}, {
+  "title": "Getting Started with Docker for the Node.js Developer",
+  "link": "https://www.airpair.com/node.js/posts/getting-started-with-docker-for-the-nodejs-dev",
+  "category": ["start", "docker", "started", "star", "op", "dev", "art", "getting", "developer", "js", "node"]
+}, {
+  "title": "https://router.optimum.net/basicSettings.html",
+  "link": "https://router.optimum.net/basicSettings.html",
+  "category": ["set", "setting", "basicsettings", "optimum", "router", "https", "op", "ps", "cs", "net", "html"]
+}, {
+  "title": "New York Genome Center The New York Genome Center",
+  "link": "http://www.nygenome.org/nygenome_staging/",
+  "category": ["genome", "center", "york"]
+}, {
+  "title": "NodeSchool",
+  "link": "https://nodeschool.io/",
+  "category": ["nodeschool", "node"]
+}, {
+  "title": "NVIDIA GeForce GTX 965M - NotebookCheck.net Tech",
+  "link": "http://www.notebookcheck.net/NVIDIA-GeForce-GTX-965M.134120.0.html",
+  "category": ["ec", "tech", "notebookcheck", "965m", "gtx", "geforce", "nvidia", "book", "net"]
+}, {
+  "title": "Getting a directory listing using the fs module in Node.js – Node.js Examples",
+  "link": "http://nodeexamples.com/2012/09/28/getting-a-directory-listing-using-the-fs-module-in-node-js/",
+  "category": ["list", "ec", "fs", "directory", "listing", "getting", "examples", "module", "using", "js", "node"]
+}, {
+  "title": "Export This: Interface Design Patterns for Node.js Modules",
+  "link": "https://team.goodeggs.com/export-this-interface-design-patterns-for-node-js-modules-b48a3b1f8f40#.r0d82akt3",
+  "category": ["patterns", "export", "pattern", "interface", "modules", "module", "js", "node", "design"]
+}, {
+  "title": "Install Kodi on a FireStick",
+  "link": "https://seo-michael.co.uk/tutorial-how-to-install-kodi-on-a-firestick/",
+  "category": ["firestick", "kodi", "install"]
+}, {
+  "title": "GitHub - mattdesl/module-best-practices: some best practices for JS modules",
+  "link": "https://github.com/mattdesl/module-best-practices",
+  "category": ["mattdesl", "git", "modules", "practices", "module", "github", "js"]
+}, {
+  "title": "16 JavaScript Concepts JavaScript Professionals Must Know Well | JavaScript is Sexy",
+  "link": "http://javascriptissexy.com/16-javascript-concepts-you-must-know-well/",
+  "category": ["sex", "professionals", "concepts", "pro", "io", "co", "professional", "sexy", "javascript"]
+}, {
+  "title": "WBAI Radio 99.5FM NYC",
+  "link": "https://www.wbai.org/",
+  "category": ["5fm", "radio", "wbai", "adi", "io", "nyc"]
+}, {
+  "title": "Sweet Sex Life / Upornia.com",
+  "link": "http://upornia.com/videos/379087/sweet-sex-life9/?promo=10306",
+  "category": ["upornia", "sex", "sweet", "co", "life", "com"]
+}, {
+  "title": "P90X Workout Schedule | P90X Workout Schedule",
+  "link": "http://www.p90xworkoutschedule.org/p90x-workout-schedule/",
+  "category": ["schedule", "workout", "p90x"]
+}, {
+  "title": "50 Life Secrets and Tips | High Existence",
+  "link": "http://highexistence.com/life-secrets-and-tips/",
+  "category": ["ec", "existence", "secrets", "ps", "tips", "tip", "life"]
+}, {
+  "title": "Certified Ethical Hacker (CEH) - EC-Council",
+  "link": "https://www.eccouncil.org/programs/certified-ethical-hacker-ceh/",
+  "category": ["council", "ec", "ceh", "hacker", "ethical", "certified", "co"]
+}, {
+  "title": "Microsoft Security Essentials Icon Doesn't Appear in the System Tray | Chron.com",
+  "link": "http://smallbusiness.chron.com/microsoft-security-essentials-icon-doesnt-appear-system-tray-71795.html",
+  "category": ["chron", "tray", "appear", "doesn", "security", "microsoft", "ec", "pear", "system", "co", "essentials", "icon", "com"]
+}, {
+  "title": "I want to choose itemized deduction for my New York State return... - TurboTax Support",
+  "link": "https://ttlc.intuit.com/questions/2928802",
+  "category": ["turbotax", "return", "deduction", "itemized", "choose", "io", "support", "york"]
+}, {
+  "title": "JavaScript Variable Scope and Hoisting Explained | JavaScript is Sexy",
+  "link": "http://javascriptissexy.com/javascript-variable-scope-and-hoisting-explained/",
+  "category": ["explained", "hoisting", "scope", "variable", "sex", "op", "co", "sexy", "javascript"]
+}, {
+  "title": "How To Install Exodus On Kodi Plus Free Bonus Video",
+  "link": "http://troypoint.com/how-to-install-exodus-on-kodi/",
+  "category": ["video", "bonus", "plus", "exodus", "kodi", "install", "free"]
+}, {
+  "title": "Ramda Documentation",
+  "link": "http://ramdajs.com/",
+  "category": ["documentation", "ramda", "io"]
+}, {
+  "title": "Deep-Trading/multimodal at master · Rachnog/Deep-Trading · GitHub",
+  "link": "https://github.com/Rachnog/Deep-Trading/tree/master/multimodal",
+  "category": ["rachnog", "master", "multimodal", "adi", "git", "trading", "github", "deep"]
+}, {
+  "title": "Start Here With Machine Learning - Machine Learning Mastery",
+  "link": "http://machinelearningmastery.com/start-here/",
+  "category": ["mastery", "start", "master", "star", "art", "learn", "machine", "learning"]
+}, {
+  "title": "Fresh Thai-",
+  "link": "http://www.xvideos.com/video9760320/fresh_thai_cream_pies",
+  "category": ["thai", "fresh"]
+}, {
+  "title": "A Tour of Machine Learning Algorithms",
+  "link": "http://machinelearningmastery.com/a-tour-of-machine-learning-algorithms/",
+  "category": ["algorithms", "tour", "learn", "machine", "learning"]
+}, {
+  "title": "Best Programming Books: 9 Books to Read and Distinguish Yourself",
+  "link": "http://www.codingdojo.com/blog/9-best-programming-books-read-right-now-want-distinguish/",
+  "category": ["yourself", "distinguish", "pro", "programming", "book", "read", "books"]
+}, {
+  "title": "Functional Programming In JavaScript — With Practical Examples (Part 1)",
+  "link": "https://medium.freecodecamp.org/functional-programming-in-js-with-practical-examples-part-1-87c2b0dbc276",
+  "category": ["practical", "functional", "pro", "io", "function", "art", "programming", "examples", "javascript"]
+}, {
+  "title": "Running Deep Learning on Distributed GPUs With Spark - Deeplearning4j: Open-source, Distributed Deep Learning for the JVM",
+  "link": "https://deeplearning4j.org/spark-gpus",
+  "category": ["jvm", "deeplearning4j", "spark", "gpus", "running", "op", "distributed", "source", "learn", "deep", "learning"]
+}, {
+  "title": "Library Genesis",
+  "link": "http://gen.lib.rus.ec/",
+  "category": ["genesis", "library"]
+}, {
+  "title": "How to learn mathematics for machine learning - Quora",
+  "link": "https://www.quora.com/How-do-I-learn-mathematics-for-machine-learning",
+  "category": ["quora", "mathematics", "cs", "learn", "machine", "learning"]
+}, {
+  "title": "Setting up a complete Node development machine. From scratch. For free",
+  "link": "http://www.marcusoft.net/2014/03/setting-up-complete-node-development.html",
+  "category": ["set", "scratch", "complete", "setting", "op", "dev", "development", "co", "machine", "com", "node", "free"]
+}, {
+  "title": "Node University: Courses on Node.js, React and JavaScript",
+  "link": "http://node.university/courses?src=wal-post-ad",
+  "category": ["react", "university", "courses", "co", "js", "node", "javascript"]
+}, {
+  "title": "Install on Second Hard Drive with startup boot option? - Ask Ubuntu",
+  "link": "https://askubuntu.com/questions/274371/install-on-second-hard-drive-with-startup-boot-option",
+  "category": ["option", "startup", "hard", "start", "ec", "star", "op", "io", "art", "drive", "co", "boot", "install", "ubuntu"]
+}, {
+  "title": "Home | Okta Developer",
+  "link": "https://developer.okta.com/",
+  "category": ["okta", "home", "op", "dev", "developer"]
+}, {
+  "title": "All You Ever Wanted to Know About Node.js Sessions| Stormpath",
+  "link": "https://stormpath.com/blog/everything-you-ever-wanted-to-know-about-node-dot-js-sessions",
+  "category": ["stormpath", "sessions", "io", "js", "node"]
+}, {
+  "title": "SSH Essentials: Working with SSH Servers, Clients, and Keys | DigitalOcean",
+  "link": "https://www.digitalocean.com/community/tutorials/ssh-essentials-working-with-ssh-servers-clients-and-keys",
+  "category": ["clients", "servers", "server", "keys", "git", "essentials", "ssh", "digitalocean", "digital"]
+}, {
+  "title": "How To Set Up SSH Keys | DigitalOcean",
+  "link": "https://www.digitalocean.com/community/tutorials/how-to-set-up-ssh-keys--2",
+  "category": ["set", "keys", "git", "ssh", "digitalocean", "digital"]
+}, {
+  "title": "How Do You Structure JavaScript? The Module Pattern Edition | CSS-Tricks",
+  "link": "https://css-tricks.com/how-do-you-structure-javascript-the-module-pattern-edition/",
+  "category": ["structure", "edit", "io", "pattern", "cs", "edition", "module", "tricks", "javascript", "css"]
+}]
