@@ -20,7 +20,7 @@ app.set('port', process.env.PORT || 9999);
 app.use(express.static(path.join(__dirname, 'public'), options));
 
 app.get('/', function(req, res) {
-    res.render('main');
+    res.render('home');
 });
 
 app.listen(app.get('port'), function() {

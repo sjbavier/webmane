@@ -27,8 +27,6 @@
       $iconMenu = $('.glyphicons'),
       $container2 = $('#container2');
 
-    var hammerIt = new Hammer(gallery);
-    hammerIt.get('swipe').set({direction: Hammer.DIRECTION_VERTICAL});
     //Show Menu click event
     showMenu.addEventListener(clickevent, function(ev) {
       ev.stopPropagation();
@@ -56,6 +54,11 @@
           $iconMenu.removeClass('animate');
         }, 600);
       }
+
+      if ($container2.hasClass('blur') && $gallery.hasClass('viewGallery')){
+        $container2.removeClass('blur', 400, "easOutSine");
+        $gallery.removeClass('viewGallery');
+      }
     });
 
     //Show Gallery click event
@@ -75,10 +78,6 @@
         container2.style.backgroundImage = imgURL;
       });
     }
-    hammerIt.on("swipeup swipedown", function(ev) {
-      if (ev.type == swipeup) {}
-      if (ev.type == swipedown) {}
-    });
 
   }
 
