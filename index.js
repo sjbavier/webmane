@@ -10,6 +10,8 @@ var options = {
     index: false
   }
 
+var readImgDir = require('./controllers/readImgDir.js');
+
 app.engine('handlebars', exphbs({defaultLayout: 'main'}));
 
 app.set('view engine', 'handlebars');
@@ -20,7 +22,22 @@ app.set('port', process.env.PORT || 9999);
 app.use(express.static(path.join(__dirname, 'public'), options));
 
 app.get('/', function(req, res) {
-    res.render('home');
+  var fileList;
+  readImgDir('./public/img/slides',  function(files){
+    fileList = files || console.log("error when retrieving using readImgDir " + err);
+  });
+    res.render('home', {
+      "files" : fileList
+    });
+});
+app.get('/photos', function(req, res) {
+  var fileList;
+  readImgDir('./public/img/photos',  function(files){
+    fileList = files || console.log("error when retrieving using readImgDir " + err);
+  });
+    res.render('photos', {
+      "files" : fileList
+    });
 });
 
 app.listen(app.get('port'), function() {
